@@ -1,6 +1,6 @@
 //esta clase saca promedios de numeros enteros
 
-public class promedio {
+public class promedio{
     int sum=0;
     int size;
     public promedio(int[] numbers){
@@ -19,4 +19,4 @@ public class promedio {
     public Double DoublePromedio(){
         return (double) this.sum/this.size;
     }
-    }
+}
