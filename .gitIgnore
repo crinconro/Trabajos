@@ -153,5 +153,4 @@ nbdist/
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,intellij,netbeans,java
 
 ## Usando gitIgnore ##
-
-G:\Mi unidad\UNAL\2021-S1\ING_DE_SOFTWARE\Laboratorios\lab1\lab1\WrongFile.txt
+WrongFile.txt
