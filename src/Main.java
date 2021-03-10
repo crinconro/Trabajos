@@ -7,5 +7,8 @@ public class Main{
         for(int i=0; i<10; i++){
             System.out.println(calc.fibonacci(i));
         }
+        for(int indice = 0;indice<nums.size();indice++){
+            System.out.println(lista.get(indice));
+        }
     }
 }
